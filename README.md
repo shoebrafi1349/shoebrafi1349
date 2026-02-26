@@ -7,7 +7,6 @@
 - Currently working on: Review Automation System
 
 ## 🛠 Tech Stack
-![Stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true)
 - Python
 - SQL
 - Excel Automation
@@ -35,7 +34,7 @@ Web dashboard for expense tracking with charts and filters.
 
 
 ## 📈 GitHub Stats
-![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true&theme=radical&cache_seconds=1800)
+![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true&theme=radical&v=1)
 
 ## 📫 Connect With Me
 - LinkedIn: (your link)
