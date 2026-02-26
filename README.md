@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shoeb 👋
 
-<!--
-**shoebrafi1349/shoebrafi1349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Assistant Manager
+- Building automation systems
+- Interested in AI + finance automation
+- Currently working on: Review Automation System
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- SQL
+- Excel Automation
+- Power BI
+- Git
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+### 🔍 Review Automation
+Automated expense and transaction review engine with rule-based checks.
+
+### 📊 Finance Dashboard
+Interactive analytics dashboard for expense tracking.
+
+## 📈 GitHub Stats
+(Add GitHub stats badge here)
+
+## 📫 Connect With Me
+- LinkedIn: (your link)
+- Email: your@email.com
