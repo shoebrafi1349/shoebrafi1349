@@ -5,8 +5,9 @@
 - Building automation systems
 - Interested in AI + finance automation
 - Currently working on: Review Automation System
-![Stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true)
+
 ## 🛠 Tech Stack
+![Stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true)
 - Python
 - SQL
 - Excel Automation
@@ -34,7 +35,7 @@ Web dashboard for expense tracking with charts and filters.
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true)
+![Shoeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 📫 Connect With Me
 - LinkedIn: (your link)
