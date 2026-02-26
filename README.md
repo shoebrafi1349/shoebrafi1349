@@ -27,3 +27,4 @@ Interactive analytics dashboard for expense tracking.
 ## 📫 Connect With Me
 - LinkedIn: (your link)
 - Email: your@email.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoebrafi1349&show_icons=true)
